@@ -29,7 +29,3 @@ We did not. We helped you by making it invalid, so people that do the same thing
 Will you stop publishing our tokens?
 
 Absolutely not! We very much appreciate legitimate users, hence we’ll continue supporting them with this repository to help them make your life even more miserable!
-
-I am very mad!
-
-Ok skid cry harder
