@@ -17,6 +17,7 @@ We now wish to answer a few questions that have arisen from the scammers, phishe
 # FAQ
 
 Where did you find my token?
+On replit forked from other peoples repo
 
 Why publish tokens to Github?
 
